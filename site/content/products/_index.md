@@ -66,31 +66,34 @@ testimonials:
       partner.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Innovate like a startup. Even if you aren't one. We believe that startups
+    are a state of mind. We all pick up the trash and we all contribute to the
+    vision. We mix client work with our own internal products - so you'll never
+    get bored.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Perfect for the idea who likes to enjoy 1-2 day sprint for a proof of
+        concept.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 1 to 2 day sprint.
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '300'
+    - description: 'Great for avid perfectionists, bigger crowds'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - two one week sprints
       plan: Big
-      price: '80'
+      price: '2000'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Mobile
+        - Web
+        - Hybrid
+        - PWA
+        - or Desktop apps
+        - Unlimited varieties.
       plan: Custom
       price: '?'
 ---
