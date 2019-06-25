@@ -2,13 +2,17 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
+  - heading: Design & Build  1 - 4 Week Sprints
     imageUrl: /img/about-shade-grown.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+    text: >-
+      The design and development team collaborate through iterative sprints, to
+      build a product with great functionality and user experience. We’ll
+      prioritize features in a product roadmap, and then tackle each section of
+      the roadmap with a build sprint. The cyclical process of this phase is
+      characterized by these stages: Sprint Planning, Sprint Build, QA, User
+      Testing and Sprint Review.The iterative build, test, review process
+      enables us to incorporate user feedback and prioritize the most critical
+      features.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
