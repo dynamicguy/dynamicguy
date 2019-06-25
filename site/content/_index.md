@@ -29,7 +29,8 @@ products:
   - image: /img/omock.png
     text: >-
       Teach/Learn anything, anytime, anywhere! Free or paid. OMock has all
-      Bangladeshi payment gateways integrated.
+      Bangladeshi payment gateways integrated. Service charge: 20% from your
+      sales.
   - image: /img/photomatic-5.png
     text: >-
       PhotoMatic is an image search engine which let you index and search on
