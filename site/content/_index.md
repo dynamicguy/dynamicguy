@@ -1,20 +1,53 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: 'Mission driven, people focused'
+subtitle: >-
+  We work with large enterprise organizations and startups to solve their
+  business challenges by identifying, designing and building innovative software
+  solutions.
+image: /img/tron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why Dynamic Guy?
+  text: >
+    We are a team of strategy, design and development experts united by our
+    passion for building human-centered, outcomes focused software. From concept
+    to launch we apply startup-style customer development and agile engineering
+    to creating new products and areas of business.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: >-
+    From whiteboarding new concepts to long-term support, we work with startups
+    and large multi-national enterprises to develop new applications, software,
+    services and platforms. Below is a glimpse into how we build, including our
+    processes, our team capabilities and what we do in each phase of a project
+    to achieve the best results and deliver Full Stack software systems.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/khujun.png
+    text: >-
+      khujun.com is vertical search engine made for Bangladesh. It helps
+      searching content from a list of bangladesh specific websites. Oh it's
+      free. 
+  - image: /img/omock.png
+    text: >-
+      Teach/Learn anything, anytime, anywhere! It has Bangladeshi payment
+      gateways integrated. Service charge: 20% from course sales. For students
+      FREE!
+  - image: /img/photomatic-5.png
+    text: >-
+      PhotoMatic is an image search engine which let you index and search on
+      your own images offline. Price: $199.00
+  - image: /img/thinpress.png
+    text: >-
+      World's First Bangla OCR online. Thin. We deliver advanced recognition
+      technology to ensure high quality results for Bangla texts. Price: Free up
+      to 100 images.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Our goals during this phase is to define the idea, understand your business
+    goals and the needs of your users. We may conduct stakeholder interviews,
+    outline technical and business requirements, do a competitor analysis and
+    run a technology audit. This groundwork is step one in the product design
+    and development process. Once we identified the problem we’re solving and
+    who the users are we can begin prototyping ideas and testing assumptions.
 ---
 

@@ -1,55 +1,52 @@
 ---
-title: Our Coffee
-type: products
+title: Our Products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  From whiteboarding new concepts to long-term support, we work with startups
+  and large multi-national enterprises to develop new applications, software,
+  services and platforms. Below is a glimpse into how we build, including our
+  processes, our team capabilities and what we do in each phase of a project to
+  achieve the best results and deliver Full Stack software systems.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Our goals during this phase is to define the idea, understand your
+        business goals and the needs of your users. We may conduct stakeholder
+        interviews, outline technical and business requirements, do a competitor
+        analysis and run a technology audit.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        We'll be around after your product has launched to offer support as and
+        when you need it. Maintenance might include upgrades, monitoring
+        performance, fixing bugs and developing new functionality.
     - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        This is the best way to efficiently test ideas and validate assumptions.
+        We’ll sketch possible solutions, based on all the risks identified and
+        assumptions made during Research & Discovery phase. The design team will
+        create interactive prototypes for you.
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        We'll work with you every step of the way to make sure the launch is a
+        success! When it’s time to hand off the product over to your team, we’ll
+        offer training and maintenance to ensure a smooth transition.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    From whiteboarding new concepts to long-term support, we work with startups
+    and large multi-national enterprises to develop new applications, software,
+    services and platforms. Below is a glimpse into how we build, including our
+    processes, our team capabilities and what we do in each phase of a project
+    to achieve the best results and deliver Full Stack software systems.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: A process that works!
+  description: >-
+    From whiteboarding new concepts to long-term support, we work with startups
+    and large multi-national enterprises to develop new applications, software,
+    services and platforms. Below is a glimpse into how we build, including our
+    processes, our team capabilities and what we do in each phase of a project
+    to achieve the best results and deliver Full Stack Software systems.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -62,41 +59,37 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Dynamic Guy is the only software consulting firm that I have ever worked
+      with that not only delivered an amazing product, but also helped us find
+      product-market fit, sourced and signed our early customers, and changed
+      the way our internal teams built software. They are truly a strategic
+      partner.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Innovate like a startup. Even if you aren't one. We believe that startups
+    are a state of mind. We all pick up the trash and we all contribute to the
+    vision. We mix client work with our own internal products - so you'll never
+    get bored.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Perfect for the idea who likes to enjoy 1-2 day sprint for a proof of
+        concept.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 1 to 2 day sprint.
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '300'
+    - description: 'Great for avid perfectionists, bigger crowds'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - two one week sprints
       plan: Big
-      price: '80'
+      price: '2000'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Unlimited varieties.
       plan: Custom
       price: '?'
 ---
-
 
