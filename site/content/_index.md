@@ -21,13 +21,11 @@ intro:
     processes, our team capabilities and what we do in each phase of a project
     to achieve the best results and deliver Full Stack software systems.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/khujun.png
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      khujun.com is vertical search engine made for Bangladesh. It helps
+      searching content from a list of bangladesh specific websites. Oh it's
+      free. 
   - image: /img/illustrations-coffee-gear.svg
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
