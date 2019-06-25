@@ -23,13 +23,14 @@ values:
       product design and development process. Once we identified the problem
       we’re solving and who the users are we can begin prototyping ideas and
       testing assumptions.
-  - heading: Sustainable farming
+  - heading: Product Concepting 1 - 3 Week Sprints
     imageUrl: /img/about-sustainable-farming.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: >-
+      This is the best way to efficiently test ideas and validate assumptions.
+      We’ll sketch possible solutions, based on all the risks identified and
+      assumptions made during Research & Discovery phase. The design team will
+      create interactive prototypes for users to test and offer feedback. We’ll
+      also determine the team structure and capabilities for the project.
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
