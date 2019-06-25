@@ -15,10 +15,7 @@ intro:
         Our goals during this phase is to define the idea, understand your
         business goals and the needs of your users. We may conduct stakeholder
         interviews, outline technical and business requirements, do a competitor
-        analysis and run a technology audit. This groundwork is step one in the
-        product design and development process. Once we identified the problem
-        we’re solving and who the users are we can begin prototyping ideas and
-        testing assumptions.
+        analysis and run a technology audit.
     - image: /img/illustrations-coffee-gear.svg
       text: >-
         We'll be around after your product has launched to offer support as and
@@ -29,9 +26,7 @@ intro:
         This is the best way to efficiently test ideas and validate assumptions.
         We’ll sketch possible solutions, based on all the risks identified and
         assumptions made during Research & Discovery phase. The design team will
-        create interactive prototypes for users to test and offer feedback.
-        We’ll also determine the team structure and capabilities for the
-        project.
+        create interactive prototypes for you.
     - image: /img/illustrations-meeting-space.svg
       text: >-
         We'll work with you every step of the way to make sure the launch is a
