@@ -1,6 +1,9 @@
 ---
-title: Great software solutions with a conscience
-subtitle: Support sustainable software systems while enjoying lives.
+title: 'Mission driven, people focused'
+subtitle: >-
+  We work with large enterprise organizations and startups to solve their
+  business challenges by identifying, designing and building innovative software
+  solutions.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Dynamic Guy?
