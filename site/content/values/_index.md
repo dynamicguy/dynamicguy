@@ -13,13 +13,16 @@ values:
       Testing and Sprint Review.The iterative build, test, review process
       enables us to incorporate user feedback and prioritize the most critical
       features.
-  - heading: Single origin
+  - heading: Research & Discovery 1 - 2 Week Sprints
     imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+    text: >-
+      Our goals during this phase is to define the idea, understand your
+      business goals and the needs of your users. We may conduct stakeholder
+      interviews, outline technical and business requirements, do a competitor
+      analysis and run a technology audit. This groundwork is step one in the
+      product design and development process. Once we identified the problem
+      we’re solving and who the users are we can begin prototyping ideas and
+      testing assumptions.
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
