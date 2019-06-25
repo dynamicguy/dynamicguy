@@ -8,10 +8,10 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Dynamic Guy?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are a team of strategy, design and development experts united by our
+    passion for building human-centered, outcomes focused software. From concept
+    to launch we apply startup-style customer development and agile engineering
+    to creating new products and areas of business.
 intro:
   heading: What we offer
   text: >-
