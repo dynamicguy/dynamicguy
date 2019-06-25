@@ -88,11 +88,6 @@ pricing:
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
-        - Mobile
-        - Web
-        - Hybrid
-        - PWA
-        - or Desktop apps
         - Unlimited varieties.
       plan: Custom
       price: '?'
