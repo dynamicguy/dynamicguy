@@ -37,12 +37,11 @@ values:
       We'll work with you every step of the way to make sure the launch is a
       success! When it’s time to hand off the product over to your team, we’ll
       offer training and maintenance to ensure a smooth transition.
-  - heading: Reinvest profits
+  - heading: Maintenance & Growth As needed
     imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      We'll be around after your product has launched to offer support as and
+      when you need it. Maintenance might include upgrades, monitoring
+      performance, fixing bugs and developing new functionality.
 ---
 
