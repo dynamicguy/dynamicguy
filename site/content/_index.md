@@ -31,11 +31,9 @@ products:
       Teach/Learn anything, anytime, anywhere! Free or paid. OMock has all
       Bangladeshi payment gateways integrated.
   - image: /img/photomatic-5.png
-    text: >
+    text: >-
       PhotoMatic is an image search engine which let you index and search on
-      your own images offline. This app has no third party dependencies except
-      you have to install a standard Java runtime. We do support JPEG and PNG
-      images at this time. It's priced as $199
+      your own images offline. Price: $199.00
 values:
   heading: Our values
   text: >-
