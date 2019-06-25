@@ -28,13 +28,18 @@ products:
       free. 
   - image: /img/omock.png
     text: >-
-      Teach/Learn anything, anytime, anywhere! Free or paid. OMock has all
-      Bangladeshi payment gateways integrated. Service charge: 20% from your
-      course sales. For students it's FREE!
+      Teach/Learn anything, anytime, anywhere! It has Bangladeshi payment
+      gateways integrated. Service charge: 20% from course sales. For students
+      FREE!
   - image: /img/photomatic-5.png
     text: >-
       PhotoMatic is an image search engine which let you index and search on
       your own images offline. Price: $199.00
+  - image: /img/thinpress.png
+    text: >-
+      World's First Bangla OCR online. Thin. We deliver advanced recognition
+      technology to ensure high quality results for Bangla texts. Price: Free up
+      to 100 images.
 values:
   heading: Our values
   text: >-
