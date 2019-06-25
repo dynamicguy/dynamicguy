@@ -33,12 +33,10 @@ intro:
         We’ll also determine the team structure and capabilities for the
         project.
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        We'll work with you every step of the way to make sure the launch is a
+        success! When it’s time to hand off the product over to your team, we’ll
+        offer training and maintenance to ensure a smooth transition.
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
