@@ -39,8 +39,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >-
-    We are a dynamic software development company focusing on high quality,
-    business focused for your next big idea.
+    From whiteboarding new concepts to long-term support, we work with startups
+    and large multi-national enterprises to develop new applications, software,
+    services and platforms. Below is a glimpse into how we build, including our
+    processes, our team capabilities and what we do in each phase of a project
+    to achieve the best results and deliver Full Stack software systems.
 main:
   heading: Great coffee with no compromises
   description: >
