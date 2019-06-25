@@ -3,8 +3,8 @@ title: Our Products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  We are a dynamic software development company focusing on high quality,
-  business focused for your next big idea.
+  We are a dynamic software development house focusing on high quality, business
+  focused for your next big idea.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
