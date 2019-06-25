@@ -31,13 +31,12 @@ values:
       assumptions made during Research & Discovery phase. The design team will
       create interactive prototypes for users to test and offer feedback. We’ll
       also determine the team structure and capabilities for the project.
-  - heading: Direct sourcing
+  - heading: Launch Preparations 1 - 2 weeks
     imageUrl: /img/about-direct-sourcing.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      We'll work with you every step of the way to make sure the launch is a
+      success! When it’s time to hand off the product over to your team, we’ll
+      offer training and maintenance to ensure a smooth transition.
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
