@@ -15,10 +15,11 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    From whiteboarding new concepts to long-term support, we work with startups
+    and large multi-national enterprises to develop new applications, software,
+    services and platforms. Below is a glimpse into how we build, including our
+    processes, our team capabilities and what we do in each phase of a project
+    to achieve the best results and deliver Full Stack software systems.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
