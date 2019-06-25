@@ -7,7 +7,7 @@ subtitle: >-
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Dynamic Guy?
-  text: >-
+  text: >
     We are a team of strategy, design and development experts united by our
     passion for building human-centered, outcomes focused software. From concept
     to launch we apply startup-style customer development and agile engineering
