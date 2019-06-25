@@ -4,7 +4,7 @@ subtitle: >-
   We work with large enterprise organizations and startups to solve their
   business challenges by identifying, designing and building innovative software
   solutions.
-image: /img/home-jumbotron.jpg
+image: /img/tron.jpg
 blurb:
   heading: Why Dynamic Guy?
   text: >
