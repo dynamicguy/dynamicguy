@@ -1,6 +1,6 @@
 ---
 title: Great software solutions with a conscience
-subtitle: Support sustainable software systems while enjoying a cup of coffee
+subtitle: Support sustainable software systems while enjoying lives.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
