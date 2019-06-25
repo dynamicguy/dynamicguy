@@ -3,7 +3,7 @@ title: Great software solutions with a conscience
 subtitle: Support sustainable software systems while enjoying lives.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Dynamic Guy?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
