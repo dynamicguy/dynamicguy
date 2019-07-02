@@ -38,7 +38,7 @@ values:
       success! When it’s time to hand off the product over to your team, we’ll
       offer training and maintenance to ensure a smooth transition.
   - heading: Maintenance & Growth (As needed)
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: /img/work15-1024x683.jpg
     text: >-
       We'll be around after your product has launched to offer support as and
       when you need it. Maintenance might include upgrades, monitoring
