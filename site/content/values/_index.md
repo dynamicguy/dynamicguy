@@ -3,7 +3,7 @@ title: Values
 image: /img/work11-1024x683.jpg
 values:
   - heading: Design & Build  (1 - 4 Week Sprints)
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/work12-1024x683.jpg
     text: >-
       The design and development team collaborate through iterative sprints, to
       build a product with great functionality and user experience. We’ll
