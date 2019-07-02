@@ -47,15 +47,6 @@ main:
     services and platforms. Below is a glimpse into how we build, including our
     processes, our team capabilities and what we do in each phase of a project
     to achieve the best results and deliver Full Stack Software systems.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -64,7 +55,6 @@ testimonials:
       product-market fit, sourced and signed our early customers, and changed
       the way our internal teams built software. They are truly a strategic
       partner.
-full_image: /img/products-full-width.jpg
 pricing:
   heading: Subscriptions
   description: >-

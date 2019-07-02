@@ -147,3 +147,6 @@ sup {
     text-overflow: ellipsis;
   }
 }
+
+.cms.mw7 p,
+.center.mw7.pv3 p{max-width:100%}
