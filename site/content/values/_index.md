@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/work11-1024x683.jpg
+image: /img/blue-lines.jpg
 values:
   - heading: Design & Build  (1 - 4 Week Sprints)
     imageUrl: /img/work12-1024x683.jpg
