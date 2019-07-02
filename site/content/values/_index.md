@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: /img/work11-1024x683.jpg
 values:
   - heading: Design & Build  (1 - 4 Week Sprints)
     imageUrl: /img/about-shade-grown.jpg
