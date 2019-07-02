@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/work14-1024x683.jpg
+logo: /img/work14.jpg
 contact_entries:
   - heading: Location
     text: >-
