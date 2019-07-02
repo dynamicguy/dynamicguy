@@ -14,7 +14,7 @@ values:
       enables us to incorporate user feedback and prioritize the most critical
       features.
   - heading: Research & Discovery (1 - 2 Week Sprints)
-    imageUrl: /img/work12-1024x683.jpg
+    imageUrl: /img/work11-1024x683.jpg
     text: >-
       Our goals during this phase is to define the idea, understand your
       business goals and the needs of your users. We may conduct stakeholder
