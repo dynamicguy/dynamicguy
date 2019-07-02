@@ -14,7 +14,7 @@ values:
       enables us to incorporate user feedback and prioritize the most critical
       features.
   - heading: Research & Discovery (1 - 2 Week Sprints)
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/work12-1024x683.jpg
     text: >-
       Our goals during this phase is to define the idea, understand your
       business goals and the needs of your users. We may conduct stakeholder
@@ -24,7 +24,7 @@ values:
       we’re solving and who the users are we can begin prototyping ideas and
       testing assumptions.
   - heading: Product Concepting (1 - 3 Week Sprints)
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/work14-1024x683.jpg
     text: >-
       This is the best way to efficiently test ideas and validate assumptions.
       We’ll sketch possible solutions, based on all the risks identified and
@@ -32,7 +32,7 @@ values:
       create interactive prototypes for users to test and offer feedback. We’ll
       also determine the team structure and capabilities for the project.
   - heading: Launch Preparations (1 - 2 weeks)
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: /img/work2-1024x683.jpg
     text: >-
       We'll work with you every step of the way to make sure the launch is a
       success! When it’s time to hand off the product over to your team, we’ll
