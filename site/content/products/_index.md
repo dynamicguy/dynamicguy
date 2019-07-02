@@ -1,6 +1,6 @@
 ---
 title: Our Products
-image: /img/work2-1024x683.jpg
+image: /img/blue-lines.jpg
 heading: What we offer
 description: >-
   From whiteboarding new concepts to long-term support, we work with startups
