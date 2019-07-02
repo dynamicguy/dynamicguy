@@ -1,6 +1,6 @@
 ---
 title: Our Products
-image: /img/products-jumbotron.jpg
+image: /img/work2-1024x683.jpg
 heading: What we offer
 description: >-
   From whiteboarding new concepts to long-term support, we work with startups
@@ -47,6 +47,15 @@ main:
     services and platforms. Below is a glimpse into how we build, including our
     processes, our team capabilities and what we do in each phase of a project
     to achieve the best results and deliver Full Stack Software systems.
+  image1:
+    alt: OMock
+    image: /img/omock.png
+  image2:
+    alt: khujun
+    image: /img/khujun.png
+  image3:
+    alt: ThinPress
+    image: /img/thinpress.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -55,6 +64,7 @@ testimonials:
       product-market fit, sourced and signed our early customers, and changed
       the way our internal teams built software. They are truly a strategic
       partner.
+full_image: /img/work2-465x170.jpg
 pricing:
   heading: Subscriptions
   description: >-
