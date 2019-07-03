@@ -1,16 +1,14 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Dynamic Guy
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is my personal website.
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository. 
+Deployment status: 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/62e0ce94-1e4c-47c1-9a69-34ba151e67c0/deploy-status)](https://app.netlify.com/sites/dynamicguy/deploys)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+## Features
 
-This will setup everything needed for running the CMS:
-
-* A new repository in your GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
 * Manage content with Netlify CMS
