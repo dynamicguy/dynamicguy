@@ -2,11 +2,11 @@
 title: Sales and Service/Project Terms & Conditions
 date: 2019-07-12T18:50:05.352Z
 description: >-
-  1. SCOPE1.1 
+  1. SCOPE
 
-  The terms and conditions of sale set forth herein apply to all contracts of
-  sale or license entered into by DYNAMIC GUY or DG for its represented goods or
-  services ("Products"), including associated proprietary information. The
+  1.1 The terms and conditions of sale set forth herein apply to all contracts
+  of sale or license entered into by DYNAMIC GUY or DG for its represented goods
+  or services ("Products"), including associated proprietary information. The
   Products covered by these Terms and Conditions are based upon DG's standard
   specifications, final acceptance test procedures, manufacturing schedules, and
   the standard Statement of Work. Changes to these baseline documents or
