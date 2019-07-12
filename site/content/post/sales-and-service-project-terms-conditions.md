@@ -1,7 +1,7 @@
 ---
 title: Sales and Service/Project Terms & Conditions
 date: 2019-07-12T18:50:05.352Z
-description: This is our General Terms & Conditions for a Sales and Service or Project.
+description: This is our General Terms & Conditions for a Sales and Service or a Project.
 ---
 1. SCOPE
 
