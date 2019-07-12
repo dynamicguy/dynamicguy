@@ -1,19 +1,12 @@
 ---
 title: Sales and Service/Project Terms & Conditions
 date: 2019-07-12T18:50:05.352Z
-description: >
-  1. SCOPE
-
-  1.1 The terms and conditions of sale set forth herein apply to all contracts
-  of sale or license entered into by DYNAMIC GUY or DG for its represented goods
-  or services ("Products"), including associated proprietary information. The
-  Products covered by these Terms and Conditions are based upon DG's standard
-  specifications, final acceptance test procedures, manufacturing schedules, and
-  the standard Statement of Work. Changes to these baseline documents or
-  schedules to meet a specific BUYER requirement may be made upon mutual
-  agreement between DG and BUYER and if required with DG's principal, and shall
-  be subject to separate negotiation, as necessary.
+description: This is our General Terms & Conditions for a Sales and Service or Project.
 ---
+1. SCOPE
+
+1.1 The terms and conditions of sale set forth herein apply to all contracts of sale or license entered into by DYNAMIC GUY or DG for its represented goods or services ("Products"), including associated proprietary information. The Products covered by these Terms and Conditions are based upon DG's standard specifications, final acceptance test procedures, manufacturing schedules, and the standard Statement of Work. Changes to these baseline documents or schedules to meet a specific BUYER requirement may be made upon mutual agreement between DG and BUYER and if required with DG's principal, and shall be subject to separate negotiation, as necessary.
+
 1.2 All quotations, proposals, bids, or similar communications from DG shall be considered solicitations of offers. All orders placed by BUYER shall be considered offers, which shall be deemed accepted upon written notice thereof from DG. Notwithstanding terms and conditions that may be included on BUYER's purchase order form or otherwise, DG's acceptance is conditional upon BUYER's assent to the terms and conditions set forth herein. Any term or condition in BUYER's purchase order or acceptance in addition to or not identical with any of these terms and conditions shall not become part of the contract unless such term or condition is stated in writing and approved and signed by an officer of DG. DG's failure to object to any term or condition contained in any communication from BUYER shall not be deemed assent to such term or condition or a waiver of these terms and conditions.
 
 2. PRICING TERMS
