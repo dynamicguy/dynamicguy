@@ -58,6 +58,7 @@ The place of final inspection and acceptance for Products shall be at DG's princ
 
 8.1 Component, Module, and Hardware Only – Orders are typically ready for delivery sixty (60) days after receipt of order. Any order accepted by DG with delivery requirements of less than 60 days may be subject to an expedited fee as indicated.
 
+
 | Shipment Date                                | Expedite Charge          
 | -------------------------------------------- | ------------------------ |
 | Between 15 and 30 days from receipt of order | 10% of net invoice price |
@@ -65,6 +66,7 @@ The place of final inspection and acceptance for Products shall be at DG's princ
 
 
 8.2 Project Orders with Engineering and/or Integration Content - Depending on factors such as order size, configuration, engineering and/or integration content, project orders are typically ready for delivery ninety (90) days after receipt of order. Any systems order accepted by DG with delivery requirements of less than 90 days may be subject to an expedited fee as indicated.
+
 
 | Shipment Date                                | Expedite Charge          |
 | -------------------------------------------- | ------------------------ |
