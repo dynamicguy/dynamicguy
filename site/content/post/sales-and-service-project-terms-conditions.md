@@ -32,7 +32,8 @@ Orders placed directly with DG will be quoted, invoiced and paid in U.S. dollars
 | 10%                | Upon shipment from factory*                               |
 
 * If project does not require factory acceptance test, then 20% FAT billing does not apply and 30% will be billed upon shipment from factory.
-  4.3 The labor hours for engineering services on a Time and Materials order will be billed at published rates on a monthly basis. In addition to these labor hour billings, any associated travel, living, and other expenses incurred will be billed at actual costs plus 10%.
+
+4.3 The labor hours for engineering services on a Time and Materials order will be billed at published rates on a monthly basis. In addition to these labor hour billings, any associated travel, living, and other expenses incurred will be billed at actual costs plus 10%.
 
 4.4 Unless otherwise specified, BUYER's payment is due within thirty (30) days from the date of each invoice, subject to credit approval by DG. Partial payments shall be provided when so specified or as a result of changes in accordance with the Changes clause, in which event DG and BUYER will mutually agree upon modified payment terms. BUYER agrees to pay DG in BDT in Bangladesh, or in another currency or location, as mutually agreed to by both parties. Payment shall be made by electronic funds transfer, cheque, or by any other form of payment specified by DG in its acknowledgment of BUYER's order, including an irrevocable, confirmed letter of credit from a reputable bank, payable at sight. DG reserves the right to establish and/or change the credit and payment terms, when in the sole opinion of DG, BUYER's financial condition or previous payment record warrants such action.
 
@@ -57,7 +58,7 @@ The place of final inspection and acceptance for Products shall be at DG's princ
 
 8.1 Component, Module, and Hardware Only – Orders are typically ready for delivery sixty (60) days after receipt of order. Any order accepted by DG with delivery requirements of less than 60 days may be subject to an expedited fee as indicated.
 
-| Shipment Date                                | Expedite Charge          |
+| Shipment Date                                | Expedite Charge          
 | -------------------------------------------- | ------------------------ |
 | Between 15 and 30 days from receipt of order | 10% of net invoice price |
 | Less than 15 days from receipt of order      | 20% of net invoice price |
@@ -69,6 +70,8 @@ The place of final inspection and acceptance for Products shall be at DG's princ
 | Between 60 and 90 days from receipt of order | 10% of net invoice price |
 | Between 30 and 59 days from receipt of order | 20% of net invoice price |
 | Less than 30 days from receipt of order      | 30% of net invoice price |
+
+
 
 ### 9. CHANGES
 
