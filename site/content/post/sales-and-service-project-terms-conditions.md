@@ -84,7 +84,7 @@ Cancellation of an accepted order will be subject to charges for the burdened co
  
 (a) BUYER has installed the Products in accordance DG's principal installation specifications, has used the Products in accordance with DG's principal technical documentation and has performed maintenance and inspections as prescribed in DG's principal maintenance schedule and service manual, including prompt replacement or repair of defective parts.
  
-(b) The Products, or parts thereof, have not been subjected to any misuse, alteration, neglect or accident and have not been repaired by any person other than by an employee or an authorized representative of DG.
+(b) The Products, or parts thereof, have not been subjected to any misuse, alteration, neglect or accident and have not been repaired by any person other than by an employee or an authorised representative of DG.
  
 11.3 All services provided by DG, including repairs and installations, are warranted free of defects in workmanship for a period of ninety (90) days from the date of service. In case of failure, DG liability shall be limited to furnishing the necessary materials and labor to replace or repair only those parts supplied by DG. The BUYER shall pay all travel expenses incurred by DG as a result of this work.
  
