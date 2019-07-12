@@ -92,12 +92,11 @@ The place of final inspection and acceptance for Products shall be at DG's princ
 
 9.2 However, changes to an accepted purchase order containing hardware for modules, components, configured systems or the like will be subject to the following charges:
 
-| Date receipt of Notice                                    | Applicable Charge                                                                                                                                                       |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Between 30 and 60 days before the scheduled shipment date | 1) Changes to delete items will incur a restocking fee of 10% of the amount deleted.2) Changes to add items will incur an expedite fee of 10% of the net amount added.  |
-| Less than 30 days before the scheduled shipment date      | 1) Changes to delete items will incur a restocking fee of 20% of the amount deleted. 2) Changes to add items will incur an expedite fee of 20% of the net amount added. |
-| After shipment of hardware                                | Return of any items will incur a restocking fee of 35% of the value of the items returned.                                                                              |
-
+| Date receipt of Notice | Applicable Charge |
+| ---------------------- | ----------------- |
+| Between 30 and 60 days before the scheduled shipment date | 1) Changes to delete items will incur a restocking fee of 10% of the amount deleted.2) Changes to add items will incur an expedite fee of 10% of the net amount added. |
+| Less than 30 days before the scheduled shipment date | 1) Changes to delete items will incur a restocking fee of 20% of the amount deleted. 2) Changes to add items will incur an expedite fee of 20% of the net amount added. |
+| After shipment of hardware | Return of any items will incur a restocking fee of 35% of the value of the items returned. |
 
 
 ### 10. CANCELLATION
