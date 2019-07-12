@@ -1,7 +1,7 @@
 ---
 title: Sales and Service/Project Terms & Conditions
 date: 2019-07-12T18:50:05.352Z
-description: >-
+description: >
   1. SCOPE
 
   1.1 The terms and conditions of sale set forth herein apply to all contracts
