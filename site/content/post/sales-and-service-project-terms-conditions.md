@@ -20,12 +20,12 @@ Orders placed directly with DG will be quoted, invoiced and paid in U.S. dollars
  
 4.2 For project orders with engineering and integration content, which exceed BDT 10,000,000 in value, the following milestone-billing schedule will apply:
 
-| Billing Percentage | Milestone |
+|Billing Percentage|Milestone|
 |--|--|
-| 30% | Upon receipt of order |
-| 40% | Upon submittal of final arrangement drawings for approval |
-| 20% | Upon completion of factory acceptance test (FAT) |
-| 10% | Upon shipment from factory* |
+|30%|Upon receipt of order|
+|40%|Upon submittal of final arrangement drawings for approval|
+|20%|Upon completion of factory acceptance test (FAT)|
+|10%|Upon shipment from factory*|
 
 * If project does not require factory acceptance test, then 20% FAT billing does not apply and 30% will be billed upon shipment from factory.
  
