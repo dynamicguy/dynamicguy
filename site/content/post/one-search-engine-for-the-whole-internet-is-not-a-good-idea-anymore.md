@@ -11,7 +11,7 @@ description: >-
   No giggling at the back, please
 image: /img/internet_map.jpg
 ---
-Image copyright Wikimedia Commons
+> _Image copyright Wikimedia Commons_
 
 We are living in an era where information overload is beyond comprehension. If you use one search engine for the whole internet it won’t work most of the time. Be it information, news or product, job. We want to build one search engine for every single country to overcome this ordeal.
 
