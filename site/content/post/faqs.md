@@ -1,7 +1,7 @@
 ---
 title: FAQs
 date: 2019-08-04T17:37:52.947Z
-description: Frequently Asked Questions
+description: Most Frequently Asked Questions
 ---
 * Is DynamicGuy your real name? 
   * No, My real name is Nurul Ferdous
