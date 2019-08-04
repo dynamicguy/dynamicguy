@@ -2,6 +2,7 @@
 title: MacOS Resource Configurations
 date: 2019-08-04T17:41:27.464Z
 description: MacOS Resource Configurations
+image: /img/osx.png
 ---
 ```
 #!/usr/bin/env sh
