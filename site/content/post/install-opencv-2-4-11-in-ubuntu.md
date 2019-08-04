@@ -2,7 +2,7 @@
 title: Install OpenCV-2.4.11 in ubuntu
 date: 2019-08-04T18:38:25.180Z
 description: Install OpenCV-2.4.11 in ubuntu
-image: /img/opencv_logo_with_text_svg_version.svg
+image: ''
 ---
 TLDR: curl -L https://gist.github.com/dynamicguy/3d1fce8dae65e765f7c4/raw/21e9f30cd14ac6fd8b9f82eb7fc52137e1492bae/install-opencv-2.4.11-in-ubuntu.sh | sh
 
