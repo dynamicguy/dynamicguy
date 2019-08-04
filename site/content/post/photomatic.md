@@ -27,6 +27,6 @@ PhotoMatic allows you to create a ranked list of results based on some similarit
 
 
 
-![Screenshot](/img/photomatic-2.png "PhotoMatic app")
+![Screenshot](/img/photomatic-1.png "PhotoMatic app")
 
 \#cbir #search #image processing #machine learning #multimedia
