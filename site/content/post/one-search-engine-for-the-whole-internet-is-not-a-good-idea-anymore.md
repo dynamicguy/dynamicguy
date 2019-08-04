@@ -21,9 +21,8 @@ Search is not a Q/A
 
 Information we seek in internet are of mainly two types:
 
-We know what we are looking for
-
-We don’t know what we are looking for
+* We know what we are looking for
+* We don’t know what we are looking for
 
 Either way traditional search engines behave to get you a list of possible items with almost no way to drill it down.
 
@@ -73,3 +72,9 @@ There are so many valid results for a query
 Let’s say we are looking for the price offerings of iPhone among the local ecommerce websites. As of now we can use Google’s country specific search. and this is what I got (notice url country specific tld in screenshot):
 
 ![স্ক্রিনশট](/img/iphone.png "স্ক্রিনশট")
+
+Every country has a mammoth collection of valid results for your query. The idea of one search engine will end up with reverse engineering the search algorithm behind it. While we could have decentralised it in the very first time. It is a bad idea to use one search engine for the whole internet.
+
+
+
+PS: I have tremendous respect to Google for what they did and doing. Information on this post is only my opinion. No pun intended. If you have any thoughts about this post I would love to converse with you about it. You can reach me at twitter. My handle is @ferdous
