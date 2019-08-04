@@ -4,6 +4,7 @@ date: 2019-08-04T17:48:27.386Z
 description: Vim setup for development
 image: /img/vim.png
 ---
+Save the following contents in a bash script and execute it.
 ```
 #!/bin/bash
 
