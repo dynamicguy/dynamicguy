@@ -26,10 +26,7 @@ intro:
     - image: /img/khujun.png
       text: >-
         khujun.com is vertical search engine specially made for Bangladesh. It
-        helps searching content from a list of Bangladesh specific websites. We
-        only crawl websites specific to Bangladesh. Hence you will find our
-        relevancy much better comparing to other search engines. We also have
-        some latest trends and techniques implemented in our search engine. One
+        helps searching content from a list of Bangladesh specific websites. One
         of the unique feature we have is Cross Language Information Retrieval
         (CLIR) support. You search for an English word we fetch the results with
         its meaning and synonyms. Nobody else has it.
