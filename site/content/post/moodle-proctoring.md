@@ -18,3 +18,5 @@ This is why we came up with a Moodle plugin which can do that with some more use
 * Easy to use.
 * Detailed documentation
 * Demo videos
+
+Here is a demo installation if you are interested: [moodle.dynamicguy.com](https://moodle.dynamicguy.com/)
