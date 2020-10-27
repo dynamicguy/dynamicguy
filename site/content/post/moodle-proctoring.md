@@ -15,3 +15,6 @@ This is why we came up with a Moodle plugin which can do that with some more use
 * Can be used with "Safe Exam Browser"
 * Highly configurable
 * Extensive reports
+* Easy to use.
+* Detailed documentation
+* Demo videos
