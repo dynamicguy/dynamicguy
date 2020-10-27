@@ -10,12 +10,13 @@ description: >-
   achieve the best results and deliver Full Stack software systems.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/moodle-cover-image.png
       text: >-
-        Our goals during this phase is to define the idea, understand your
-        business goals and the needs of your users. We may conduct stakeholder
-        interviews, outline technical and business requirements, do a competitor
-        analysis and run a technology audit.
+        Moodle Proctoring Plugin. Real-time student activity monitoring via
+        webcamWeb servicesNo third party server or plugin dependenciesNo user
+        limitationCan be used with "Safe Exam Browser"Highly
+        configurableExtensive reportsEasy to use.Detailed documentationDemo
+        videos
     - image: /img/illustrations-coffee-gear.svg
       text: >-
         We'll be around after your product has launched to offer support as and
