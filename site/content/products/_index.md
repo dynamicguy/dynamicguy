@@ -23,12 +23,16 @@ intro:
         https://omcok.com while studio is available at: https://studio.omock.com
         and Android app is here:
         https://play.google.com/store/apps/details?id=com.omock
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/khujun.png
       text: >-
-        This is the best way to efficiently test ideas and validate assumptions.
-        We’ll sketch possible solutions, based on all the risks identified and
-        assumptions made during Research & Discovery phase. The design team will
-        create interactive prototypes for you.
+        khujun.com is vertical search engine specially made for Bangladesh. It
+        helps searching content from a list of Bangladesh specific websites. We
+        only crawl websites specific to Bangladesh. Hence you will find our
+        relevancy much better comparing to other search engines. We also have
+        some latest trends and techniques implemented in our search engine. One
+        of the unique feature we have is Cross Language Information Retrieval
+        (CLIR) support. You search for an English word we fetch the results with
+        its meaning and synonyms. Nobody else has it.
     - image: /img/illustrations-meeting-space.svg
       text: >-
         We'll work with you every step of the way to make sure the launch is a
