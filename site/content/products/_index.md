@@ -33,11 +33,8 @@ intro:
         of the unique feature we have is Cross Language Information Retrieval
         (CLIR) support. You search for an English word we fetch the results with
         its meaning and synonyms. Nobody else has it.
-    - image: /img/illustrations-meeting-space.svg
-      text: >-
-        We'll work with you every step of the way to make sure the launch is a
-        success! When it’s time to hand off the product over to your team, we’ll
-        offer training and maintenance to ensure a smooth transition.
+    - image: /img/osx.png
+      text: 'Desktop Image Index and search app. '
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
