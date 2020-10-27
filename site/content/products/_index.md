@@ -13,15 +13,16 @@ intro:
     - image: /img/moodle-cover-image.png
       text: >-
         Moodle Proctoring Plugin. Real-time student activity monitoring via
-        webcamWeb servicesNo third party server or plugin dependenciesNo user
-        limitationCan be used with "Safe Exam Browser"Highly
-        configurableExtensive reportsEasy to use.Detailed documentationDemo
-        videos
-    - image: /img/illustrations-coffee-gear.svg
+        webcam, Web services, No third party server or plugin dependencies, No
+        user limitation, Can be used with "Safe Exam Browser", Highly
+        configurable, Extensive reports, Easy to use.Detailed documentation.
+        https://moodle.dynamicguy.com
+    - image: /img/omock.png
       text: >-
-        We'll be around after your product has launched to offer support as and
-        when you need it. Maintenance might include upgrades, monitoring
-        performance, fixing bugs and developing new functionality.
+        OMock. e-Learning platform made for Bangladesh. Here is the LMS
+        https://omcok.com while studio is available at: https://studio.omock.com
+        and Android app is here:
+        https://play.google.com/store/apps/details?id=com.omock
     - image: /img/illustrations-tutorials.svg
       text: >-
         This is the best way to efficiently test ideas and validate assumptions.
