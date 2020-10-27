@@ -35,7 +35,11 @@ intro:
     - image: /img/thinpress.png
       text: ThinPress. Bangla OCR platform.
     - image: /img/default.png
-      text: 'PiSleep. Anti sleep alarm. https://www.pisleep.com/'
+      text: >-
+        PiSleep. PiSleep is a driver and vehicle safety product which can
+        accurately predict and warn driver's sleeping during the driving to
+        protect driver's life and avoid the damage to the vehicle.
+        https://www.pisleep.com/
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
