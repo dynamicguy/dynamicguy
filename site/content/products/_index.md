@@ -25,11 +25,11 @@ intro:
         https://play.google.com/store/apps/details?id=com.omock
     - image: /img/khujun.png
       text: >-
-        khujun.com is vertical search engine specially made for Bangladesh. It
-        helps searching content from a list of Bangladesh specific websites. One
-        of the unique feature we have is Cross Language Information Retrieval
-        (CLIR) support. You search for an English word we fetch the results with
-        its meaning and synonyms. Nobody else has it.
+        https://khujun.com is vertical search engine specially made for
+        Bangladesh. It helps searching content from a list of Bangladesh
+        specific websites. One of the unique feature we have is Cross Language
+        Information Retrieval (CLIR) support. You search for an English word we
+        fetch the results with its meaning and synonyms. Nobody else has it.
     - image: /img/photomatic-5.png
       text: 'PhotoMatic. Desktop Image Index and search app. '
     - image: /img/thinpress.png
