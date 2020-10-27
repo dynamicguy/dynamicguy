@@ -37,6 +37,8 @@ intro:
       text: 'PhotoMatic. Desktop Image Index and search app. '
     - image: /img/thinpress.png
       text: ThinPress. Bangla OCR platform.
+    - image: /img/default.png
+      text: 'PiSleep. Anti sleep alarm. https://www.pisleep.com/'
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
