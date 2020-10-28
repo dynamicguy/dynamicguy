@@ -19,7 +19,6 @@ This is why we came up with a Moodle plugin which can do that with some more use
 * Extensive reports
 * Easy to use.
 * Detailed documentation
-* Demo videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRs5lkOPq8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
