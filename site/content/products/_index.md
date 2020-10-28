@@ -10,7 +10,7 @@ description: >-
   achieve the best results and deliver Full Stack software systems.
 intro:
   blurbs:
-    - image: /img/moodle-cover-image.png
+    - image: /img/codecanyon.png
       text: >-
         Moodle Proctoring Plugin. Real-time student activity monitoring via
         webcam, Web services, No third party server or plugin dependencies, No
