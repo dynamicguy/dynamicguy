@@ -9,7 +9,7 @@ description: >-
   I know there is no such tool available
 image: /img/nid-demo.png
 ---
-We just finished writing and testing a Bangladesh National ID data extractor with 100% accuracy. There are tons of potential use cases for this. As far as I know there is no such tool available. These are the tools I used to achieve this:
+We just finished writing and testing a Bangladesh National ID data extractor with 100% accuracy. There are tons of potential use cases for this. As far as I know there is no such tool available. This software is written in python. These are the tools I used to achieve this:
 
 * numpy
 * dash
