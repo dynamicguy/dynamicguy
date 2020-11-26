@@ -21,4 +21,8 @@ We just finished writing and testing a Bangladesh National ID data extractor wit
 * pdf2image
 * dash-canvas
 
+Here is the source image: 
+
+![source image](/img/nid-3.jpg "source image")
+
 Please [reach us](https://dynamicguy.com/contact/) if you need this.
