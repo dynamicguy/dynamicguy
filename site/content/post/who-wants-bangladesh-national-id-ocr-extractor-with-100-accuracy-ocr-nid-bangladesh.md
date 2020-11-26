@@ -1,6 +1,6 @@
 ---
 title: >-
-  who wants Bangladesh National ID OCR extractor with 100% accuracy? #OCR  #NID
+  Who wants Bangladesh National ID OCR extractor with 100% accuracy? #OCR  #NID
   #bangladesh 
 date: 2020-11-26T21:51:50.337Z
 description: >-
