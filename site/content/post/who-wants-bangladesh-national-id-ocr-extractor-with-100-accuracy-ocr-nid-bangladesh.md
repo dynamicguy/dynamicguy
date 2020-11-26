@@ -25,4 +25,10 @@ Here is the source image:
 
 ![source image](/img/nid-3.jpg "source image")
 
+**Here is the extracted text:**
+
+```
+['নাম: রোমানা আক্তার মৌ', 'Name: Romana Akter Mou', 'মাতা: মোসা: আমেনা', 'Date of Birth: 19 Jan 1992', 'ID NO: 2610413965404']
+```
+
 Please [reach us](https://dynamicguy.com/contact/) if you need this.
