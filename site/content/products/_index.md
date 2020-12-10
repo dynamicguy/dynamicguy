@@ -12,7 +12,7 @@ intro:
   blurbs:
     - image: /img/api-demo.jpg
       text: >-
-        Bangladesh National ID OCR extractor
+        Bangladesh National ID OCR extractor?
 
         Are you looking a KYC solution for Bangladeshi ID cards? This can help
         you with that. We already have it sold to local bank for their KYC
