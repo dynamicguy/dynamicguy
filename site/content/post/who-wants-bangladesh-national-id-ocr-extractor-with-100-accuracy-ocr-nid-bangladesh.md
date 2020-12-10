@@ -13,6 +13,31 @@ We just finished writing and testing a Bangladesh National ID data extractor wit
 
 ![api demo](/img/api-demo.jpg "API Demo")
 
+Sample API response from uploaded NID image in JSON:
+
+```
+{
+  "text": "raw [...] text",
+  "parsed": [
+    "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+    "Government of the People's Republic of Bangladesh",
+    "NATIONAL ID CARD / জাতীয় পরিচয় পত্র",
+    "নাম: মোঃ [...]",
+    "Name: [...]",
+    "পিতা: মোঃ [...]",
+    "জজ মাতা: [...]",
+    "Date of Birth: [..] Mar 1990",
+    "ID NO: 1990[...]"
+  ],
+  "id_no": "1990[...]",
+  "dob": "[..] Mar 1990",
+  "bn_mother": "[...]",
+  "bn_father": "মোঃ [...]",
+  "en_name": "Md. [...]",
+  "bn_name": "মোঃ [...]"
+}
+```
+
 These are the packages we used to achieve this:
 
 * numpy
