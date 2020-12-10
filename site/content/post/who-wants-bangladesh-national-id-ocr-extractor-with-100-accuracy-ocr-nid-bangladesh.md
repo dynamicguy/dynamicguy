@@ -25,7 +25,7 @@ Sample API response from uploaded NID image in JSON:
     "নাম: মোঃ [...]",
     "Name: [...]",
     "পিতা: মোঃ [...]",
-    "জজ মাতা: [...]",
+    "মাতা: [...]",
     "Date of Birth: [..] Mar 1990",
     "ID NO: 1990[...]"
   ],
