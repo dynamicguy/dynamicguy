@@ -10,6 +10,13 @@ description: >-
   achieve the best results and deliver Full Stack software systems.
 intro:
   blurbs:
+    - image: /img/api-demo.jpg
+      text: >-
+        Bangladesh National ID OCR extractor
+
+        Are you looking a KYC solution for Bangladeshi ID cards? This can help
+        you with that. We already have it sold to local bank for their KYC
+        automation. We guaranty 99% accuracy.
     - image: /img/codecanyon.png
       text: >-
         Moodle Proctoring Plugin. Real-time student activity monitoring via
