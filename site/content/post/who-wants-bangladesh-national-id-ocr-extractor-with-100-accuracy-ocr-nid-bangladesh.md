@@ -17,7 +17,7 @@ Sample API response from uploaded NID image in JSON:
 
 ```
 {
-  "text": "raw [...] text",
+  "text": "raw [...] text",  "photo": "...",  "signature": "...",
   "parsed": [
     "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
     "Government of the People's Republic of Bangladesh",
