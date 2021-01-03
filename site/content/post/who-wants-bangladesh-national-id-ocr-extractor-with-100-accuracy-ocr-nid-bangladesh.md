@@ -41,10 +41,12 @@ Sample API response from uploaded NID image in JSON:
 These are the packages we used to achieve this:
 
 * numpy
+* tensorflow
+* keras
 * dash
 * imutils
 * pytesseract
-* opencv-python
+* opencv
 * xlrd
 * pandas
 * pdf2image
