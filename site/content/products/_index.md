@@ -41,8 +41,6 @@ intro:
         fetch the results with its meaning and synonyms. Nobody else has it.
     - image: /img/photomatic-5.png
       text: 'PhotoMatic. Desktop Image Index and search app. '
-    - image: /img/thinpress.png
-      text: ThinPress. Bangla OCR platform.
     - image: /img/71960500_109334247146984_1127138541051052032_n.jpg
       text: >-
         PiSleep. PiSleep is a driver and vehicle safety product which can
