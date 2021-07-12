@@ -71,7 +71,7 @@ main:
     image: /img/khujun.png
   image3:
     alt: ThinPress
-    image: /img/thinpress.png
+    image: /img/screenshot-2021-07-12-at-9.27.08-pm.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
