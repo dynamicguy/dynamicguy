@@ -45,8 +45,8 @@ intro:
       text: >-
         PiSleep. PiSleep is a driver and vehicle safety product which can
         accurately predict and warn driver's sleeping during the driving to
-        protect driver's life and avoid the damage to the vehicle.
-        https://www.pisleep.com/
+        protect driver's life and avoid the damage to the vehicle. Here is a
+        demo https://youtu.be/gNBFGVRLj30
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
