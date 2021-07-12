@@ -24,12 +24,14 @@ intro:
         user limitation, Can be used with "Safe Exam Browser", Highly
         configurable, Extensive reports, Easy to use.Detailed documentation.
         https://moodle.dynamicguy.com
-    - image: /img/omock.png
+    - image: /img/screenshot-2021-07-12-at-9.24.51-pm.png
       text: >-
-        OMock. e-Learning platform made for Bangladesh. Here is the LMS
-        https://omcok.com while studio is available at: https://studio.omock.com
-        and Android app is here:
-        https://play.google.com/store/apps/details?id=com.omock
+        কোভিড-১৯ এআই সহকারী একটি বুকের এক্স-রে থেকে কোভিড-১৯ নির্ণয়ের জন্য একটি
+        ওয়েব ভিত্তিক সিস্টেম। এই সিস্টেম নিউরাল নেটওয়ার্ক ব্যবহার করে আপনার
+        আপলোড করা বুকের এক্স-রে ছবির ভিত্তিতে সম্ভাব্য কোভিড-১৯ এবং এ সংক্রান্ত
+        নিউমোনিয়া জাতীয় রোগ নির্ণয়ের জন্য সহায়তা প্রদান করে। এখানে সমস্ত
+        প্রক্রিয়াকরণ আপনার ডিভাইসে সম্পন্ন হয়। এটি আপনার ব্রাউজারে একটি
+        টেন্সরফ্লো নিউরাল নেটওয়ার্ক মডেল (১৫০ এমবি) ডাউনলোড করবে।
     - image: /img/khujun.png
       text: >-
         https://khujun.com is vertical search engine specially made for
