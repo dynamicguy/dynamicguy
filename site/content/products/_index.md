@@ -64,8 +64,8 @@ main:
     processes, our team capabilities and what we do in each phase of a project
     to achieve the best results and deliver Full Stack Software systems.
   image1:
-    alt: OMock
-    image: /img/omock.png
+    alt: corona.dynamicguy.com
+    image: /img/screenshot-2021-07-12-at-9.24.51-pm.png
   image2:
     alt: khujun
     image: /img/khujun.png
