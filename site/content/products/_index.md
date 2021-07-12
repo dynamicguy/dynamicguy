@@ -70,7 +70,7 @@ main:
     alt: khujun
     image: /img/khujun.png
   image3:
-    alt: ThinPress
+    alt: kyc.dynamicguy.com
     image: /img/screenshot-2021-07-12-at-9.27.08-pm.png
 testimonials:
   - author: Elisabeth Kaurismäki
