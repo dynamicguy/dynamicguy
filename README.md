@@ -33,4 +33,8 @@
 [twitter]: https://twitter.com/ferdous
 [youtube]: https://youtube.com/NurulFerdous
 [instagram]: https://instagram.com/dynamicguy
+<<<<<<< HEAD
 [linkedin]: https://linkedin.com/in/nurulferdous
+=======
+[linkedin]: https://linkedin.com/in/nurulferdous
+>>>>>>> 763aaf3 (fix)
