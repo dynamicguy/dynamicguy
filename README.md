@@ -21,6 +21,9 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicguy)](https://github.com/dynamicguy)
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
