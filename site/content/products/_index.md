@@ -10,13 +10,13 @@ description: >-
   achieve the best results and deliver Full Stack software systems.
 intro:
   blurbs:
-    - image: /img/screenshot-2021-07-12-at-9.27.08-pm.png
+    - image: /img/api-demo.jpg
       text: >-
         Bangladesh National ID OCR extractor?
 
         Are you looking a KYC solution for Bangladeshi ID cards? This can help
         you with that. We already have it sold to local bank for their KYC
-        automation. We guaranty 99% accuracy. kyc.dynamicguy.com
+        automation. We guaranty 99% accuracy.
     - image: /img/codecanyon.png
       text: >-
         Moodle Proctoring Plugin. Real-time student activity monitoring via
@@ -24,14 +24,12 @@ intro:
         user limitation, Can be used with "Safe Exam Browser", Highly
         configurable, Extensive reports, Easy to use.Detailed documentation.
         https://moodle.dynamicguy.com
-    - image: /img/screenshot-2021-07-12-at-9.24.51-pm.png
+    - image: /img/omock.png
       text: >-
-        কোভিড-১৯ এআই সহকারী একটি বুকের এক্স-রে থেকে কোভিড-১৯ নির্ণয়ের জন্য একটি
-        ওয়েব ভিত্তিক সিস্টেম। এই সিস্টেম নিউরাল নেটওয়ার্ক ব্যবহার করে আপনার
-        আপলোড করা বুকের এক্স-রে ছবির ভিত্তিতে সম্ভাব্য কোভিড-১৯ এবং এ সংক্রান্ত
-        নিউমোনিয়া জাতীয় রোগ নির্ণয়ের জন্য সহায়তা প্রদান করে। এখানে সমস্ত
-        প্রক্রিয়াকরণ আপনার ডিভাইসে সম্পন্ন হয়। এটি আপনার ব্রাউজারে একটি
-        টেন্সরফ্লো নিউরাল নেটওয়ার্ক মডেল (১৫০ এমবি) ডাউনলোড করবে।
+        OMock. e-Learning platform made for Bangladesh. Here is the LMS
+        https://omcok.com while studio is available at: https://studio.omock.com
+        and Android app is here:
+        https://play.google.com/store/apps/details?id=com.omock
     - image: /img/khujun.png
       text: >-
         https://khujun.com is vertical search engine specially made for
@@ -41,12 +39,14 @@ intro:
         fetch the results with its meaning and synonyms. Nobody else has it.
     - image: /img/photomatic-5.png
       text: 'PhotoMatic. Desktop Image Index and search app. '
+    - image: /img/thinpress.png
+      text: ThinPress. Bangla OCR platform.
     - image: /img/71960500_109334247146984_1127138541051052032_n.jpg
       text: >-
         PiSleep. PiSleep is a driver and vehicle safety product which can
         accurately predict and warn driver's sleeping during the driving to
-        protect driver's life and avoid the damage to the vehicle. Here is a
-        demo https://youtu.be/gNBFGVRLj30
+        protect driver's life and avoid the damage to the vehicle.
+        https://www.pisleep.com/
   heading: What we offer
   description: >-
     From whiteboarding new concepts to long-term support, we work with startups
@@ -70,8 +70,8 @@ main:
     alt: khujun
     image: /img/khujun.png
   image3:
-    alt: kyc.dynamicguy.com
-    image: /img/screenshot-2021-07-12-at-9.27.08-pm.png
+    alt: ThinPress
+    image: /img/thinpress.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
