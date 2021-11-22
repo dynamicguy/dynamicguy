@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=dynamicguy.com&style=for-the-badge&url=https%3A%2F%2Fdynamicguy.com)](https://dynamicguy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ferdous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdynamicguy&screen_name=ferdous)
 
-## I'm a Developer, and Author!!
+## I'm a Software Architect by profession, and a published Author from Packt Publishing!
 
 - 🔭 I wrote twoo books from Packt Publishing: [Magento Development Cookbook][book]!
 - 🌱 I’m currently learning everything 🤣
