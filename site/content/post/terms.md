@@ -2,9 +2,9 @@
 title: Terms
 date: 2021-12-03T18:07:17.797Z
 description: >-
-  By accessing khujun.com, you are agreeing to be bound by these Terms of Use,
-  all applicable laws and regulations, and agree that you are responsible for
-  compliance with any applicable local laws. If you do not agree with any of
+  By accessing dynamicguy.com, you are agreeing to be bound by these Terms of
+  Use, all applicable laws and regulations, and agree that you are responsible
+  for compliance with any applicable local laws. If you do not agree with any of
   these terms, you are prohibited from using or accessing this site. The
   materials contained in this web site are protected by applicable copyright and
   trademark law.
@@ -61,4 +61,4 @@ description: >-
 
 \    <h4 class="headline">8. Governing Law</h4>
 
-\    <p>Any claim relating to khujun.com's web site shall be governed by the laws of the Bangladesh without regard to its conflict of law provisions.</p>
+\    <p>Any claim relating to dynamicguy.com's web site shall be governed by the laws of the Bangladesh without regard to its conflict of law provisions.</p>
