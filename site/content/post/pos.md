@@ -11,7 +11,7 @@ Our team variation helped us a lot in forming the right atmosphere taking into c
 Features
 
 1. Stock Management (Items and Kits)
-2. VAT, Customer and Multi Tiers Taxation
+2. VAT/TAX, Customer and Multi Tiers Taxation
 3. Sale Register & Transactions Logging
 4. Quotation and Invoicing
 5. Expenses Logging
