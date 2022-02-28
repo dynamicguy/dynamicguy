@@ -4,7 +4,9 @@ date: 2022-02-28T22:06:12.572Z
 description: 'POS, Sales, stock & inventory management system'
 image: /img/screenshot-2022-03-01-at-4.11.39-am.png
 ---
-POS, Sales, stock & inventory management system
+Dynamic POS is a web based point of sale application (POS) written in PHP. It uses MySQL as the database. We were able to cover almost every function needed to form a fully reliable POS solution that fits several business types including most required modules to run your business smoothly!
+
+Our team variation helped us a lot in forming the right atmosphere taking into consideration several worldwide laws from invoicing, taxation, to customer privacy. This led our solution to become more fitting different regions all around the world.
 
 Features
 
