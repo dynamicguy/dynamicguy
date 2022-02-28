@@ -8,6 +8,8 @@ Dynamic POS is a web based point of sale application (POS) written in PHP. It us
 
 Our team variation helped us a lot in forming the right atmosphere taking into consideration several worldwide laws from invoicing, taxation, to customer privacy. This led our solution to become more fitting different regions all around the world.
 
+![Arabic Interface](/img/screenshot-2022-03-01-at-5.06.59-am.png "Arabic Interface")
+
 Features
 
 1. Stock Management (Items and Kits)
