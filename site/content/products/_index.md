@@ -95,12 +95,12 @@ pricing:
       items:
         - 1 to 2 day sprint.
       plan: Small
-      price: '300'
+      price: '2000'
     - description: 'Great for avid perfectionists, bigger crowds'
       items:
         - two one week sprints
       plan: Big
-      price: '2000'
+      price: '10000'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
