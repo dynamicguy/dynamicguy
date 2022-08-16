@@ -4,6 +4,7 @@ date: 2019-06-25T18:55:11.689Z
 description: >-
   DynamicGuy (""us"", ""we"", or ""our"") operates the http://www.DynamicGuy.com
   website and the DynamicGuy mobile application (the ""Service"").
+image: /img/tron.jpg
 ---
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
