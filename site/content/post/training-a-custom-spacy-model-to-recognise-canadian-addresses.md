@@ -11,8 +11,6 @@ This is a minimal implementation of a Canada address parser built using [spaCy N
 
 [![Video](/img/screenshot.png)](https://www.youtube.com/watch?v=ZJ99URgHJgA")
 
-
-
 ## Prerequisites
 
 * Python v3.x
