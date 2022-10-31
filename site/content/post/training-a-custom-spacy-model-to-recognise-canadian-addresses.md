@@ -7,7 +7,7 @@ description: >-
 ---
 # ca-address-parser
 
-This is a minimal implementation of a Canada address parser built using [spaCy NLP](https://spacy.io/usage/spacy-101) library. This [blog post](https://www.dynamicguy.com/admin/#/collections/post/entries/training-a-custom-spacy-model-to-recognise-canadian-addresses) covers the implementation and execution details at length.
+This is a minimal implementation of a Canada address parser built using [spaCy NLP](https://spacy.io/usage/spacy-101) library. This [blog post](https://www.dynamicguy.com/admin/#/collections/post/entries/training-a-custom-spacy-model-to-recognise-canadian-addresses) covers the implementation and execution details at length. Click the image below to see the video:
 
 [![Video](/img/screenshot.png)](https://www.youtube.com/watch?v=ZJ99URgHJgA")
 
