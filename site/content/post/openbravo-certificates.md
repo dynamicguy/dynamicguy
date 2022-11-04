@@ -6,4 +6,6 @@ description: >-
   using Named Entity Recognition.
 image: /img/certificate_of_attendance.jpg
 ---
+![Openbravo Foundation Certificate](/img/certificate_of_achievement.jpg "Openbravo Foundation Certificate")
+
 In this project we trained a custom spaCy model to identify Canadian addresses using Named Entity Recognition.
