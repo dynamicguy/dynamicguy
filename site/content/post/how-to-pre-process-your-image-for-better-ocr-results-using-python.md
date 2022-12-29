@@ -7,7 +7,7 @@ description: >-
   accurate OCR results, it is important to pre-process the images in a way that
   maximizes the quality and legibility of the text. Here is a detailed guide on
   how to pre-process images for OCR using Python.
-image: /img/1558177536_optical_character_recognition.png
+image: /img/spectacles.png
 ---
 Optical Character Recognition (OCR) is a technology that allows computers to recognize and extract text from images and documents. In order to achieve accurate OCR results, it is important to pre-process the images in a way that maximizes the quality and legibility of the text. Here is a detailed guide on how to pre-process images for OCR using Python.
 
