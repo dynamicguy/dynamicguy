@@ -7,8 +7,8 @@
 
 - 🔭 I wrote twoo books from Packt Publishing: [Magento Development Cookbook][book]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
